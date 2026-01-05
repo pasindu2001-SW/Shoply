@@ -1,4 +1,4 @@
-# Product Store - React + Vite
+# Shoply - React + Vite
 
 A modern, responsive product listing application built with React and Vite, featuring real-time search, filtering, sorting, and favorites management.
 
@@ -19,7 +19,6 @@ A modern, responsive product listing application built with React and Vite, feat
 - **Frontend Framework**: React 19.2
 - **Build Tool**: Vite 7.2
 - **Styling**: Tailwind CSS 4.1 with @tailwindcss/vite
-- **Routing**: React Router DOM 7.11
 - **Data Source**: Fake Store API (https://fakestoreapi.com)
 - **Code Quality**: ESLint with React best practices
 
@@ -57,7 +56,7 @@ src/
 
 ```bash
 # Clone the repository
-git clone <repo-url>
+git clone https://github.com/pasindu2001-SW/Shoply.git
 cd team-collaboro-fe
 
 # Install dependencies
