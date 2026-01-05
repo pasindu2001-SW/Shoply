@@ -1,6 +1,8 @@
 # Shoply - React + Vite
 
 A modern, responsive product listing application built with React and Vite, featuring real-time search, filtering, sorting, and favorites management.
+- Live Demo: https://your-app.Versel.app
+- GitHub Repo: https://github.com/pasindu2001-SW/Shoply
 
 ## Features
 
@@ -57,7 +59,7 @@ src/
 ```bash
 # Clone the repository
 git clone https://github.com/pasindu2001-SW/Shoply.git
-cd team-collaboro-fe
+cd Shoply
 
 # Install dependencies
 npm install
@@ -93,7 +95,7 @@ npm run lint
 
 ### Custom Hooks
 - **`useLocalStorage`**: Syncs component state with browser localStorage
-- **`useDarkMode`**: Manages dark mode state with system preference detection
+- **`useDarkMode`**: Manages system preference detection
 
 ### Helper Functions
 - **`filterProducts`**: Filter by search term and category
@@ -104,6 +106,14 @@ npm run lint
 ### API Integration
 - **`fetchProducts`**: Fetch all products from Fake Store API
 - **`fetchCategories`**: Fetch available product categories
+
+## AI Tools Usage
+
+AI tools (claude ai) were used during development to assist with:
+- Structuring React components and folder organization
+- Optimizing state management logic for search, filter, and sorting
+- Improving UI/UX with Tailwind CSS best practices
+All implementation decisions and final code were reviewed and customized by the developer
 
 ## Browser Compatibility
 
