@@ -95,7 +95,6 @@ npm run lint
 
 ### Custom Hooks
 - **`useLocalStorage`**: Syncs component state with browser localStorage
-- **`useDarkMode`**: Manages system preference detection
 
 ### Helper Functions
 - **`filterProducts`**: Filter by search term and category
