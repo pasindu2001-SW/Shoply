@@ -1,7 +1,7 @@
 # Shoply - React + Vite
 
 A modern, responsive product listing application built with React and Vite, featuring real-time search, filtering, sorting, and favorites management.
-- Live Demo: https://your-app.Versel.app
+- Live Demo: https://shoply-nine.vercel.app/
 - GitHub Repo: https://github.com/pasindu2001-SW/Shoply
 
 ## Features
